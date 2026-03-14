@@ -32,7 +32,7 @@ These books are by the GOAT MIT professor **Gilbert Strang**.
 | CALCULUS | LINEAR ALGEBRA | DIFFERENTIAL EQUATIONS |
 | :---: | :---: | :---: |
 | <img src="https://open.umn.edu/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAzMzMsInB1ciI6ImJsb2JfaWQifX0=--d33da72254617dcf9f37378f4de1aef441d8c9f5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjoiNDkweDEwMDAifSwicHVyIjoidmFyaWF0aW9uIn19--421ab82856ce4ced5bdaa37f96bcb9060315a4c7/calculus.jpg?disposition=inline" width="160"> | <img src="https://m.media-amazon.com/images/I/71I+IW3jj4L._SY385_.jpg" width="160"> | <img src="https://m.media-amazon.com/images/I/619V8Md3wcL._SY425_.jpg" width="160"> |
-| [⚙️] Status: In Progress | [⚙️] Status: In Progress | [🔭] Status: Coming Soon |
+| ⚙️ In Progress | ⚙️ In Progress | 🔭 Coming Soon |
 
 ### Probability and Statistics 
 I haven't found the perfect book for this topic yet, but hopefully soon.
@@ -59,7 +59,7 @@ I haven't found the perfect book for this topic yet, but hopefully soon.
 | Python for Data Analysis | Hands-On Machine Learning | Deep Learning for Coders |
 | :---: | :---: | :---: |
 | <img src="https://m.media-amazon.com/images/I/912I2EtdCbL._SY385_.jpg" width="160"> | <img src="https://m.media-amazon.com/images/I/81qHV3ACapL._SY385_.jpg" width="160"> | <img src="https://m.media-amazon.com/images/I/91CB1tXICjL._SY385_.jpg" width="160"> |
-| [🔭] Status: Coming Soon | [🔭] Status: Coming Soon | [🔭] Status: Coming Soon |
+| 🔭 Coming Soon | 🔭 Coming Soon | 🔭 Coming Soon |
 
 ---
 
